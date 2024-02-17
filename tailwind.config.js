@@ -10,6 +10,12 @@ module.exports = {
         "": "",
         "orange-pastel": "#FFF4D4",
       },
+      backgroundImage: {
+        'icon-white': "url('/assets/Images/bgIconCTA.png')",
+      },
+      backgroundSize: {
+        '25%': '25%',
+      }
     },
   },
   plugins: [require("flowbite/plugin")],
