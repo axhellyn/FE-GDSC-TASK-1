@@ -9,6 +9,7 @@ module.exports = {
         "red-base": "#FF4242",
         "": "",
         "orange-pastel": "#FFF4D4",
+        "black-base": "rgba(35, 36, 42, 1)"
       },
       backgroundImage: {
         'icon-white': "url('/assets/Images/bgIconCTA.png')",
