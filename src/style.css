@@ -2487,6 +2487,10 @@ input:checked + .toggle-bg {
   .xl\:h-\[600px\] {
     height: 600px;
   }
+
+  .xl\:h-\[600pc\] {
+    height: 600pc;
+  }
 }
 
 .rtl\:rotate-180:where([dir="rtl"], [dir="rtl"] *) {
