@@ -16,6 +16,9 @@ module.exports = {
       },
       backgroundSize: {
         '25%': '25%',
+      },
+      fontFamily: {
+        'poppins': 'Poppins',
       }
     },
   },
